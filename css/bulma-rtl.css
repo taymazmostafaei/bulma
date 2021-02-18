@@ -339,7 +339,9 @@ section {
   display: block;
 }
 
-body,
+body{
+background-color:#e8e7e7 ;
+}
 button,
 input,
 optgroup,
