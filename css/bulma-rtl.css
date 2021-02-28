@@ -172,12 +172,12 @@ fieldset[disabled] .pagination-ellipsis {
 }
 
 .is-large.delete, .is-large.modal-close {
-  height: 32px;
-  max-height: 32px;
-  max-width: 32px;
-  min-height: 32px;
-  min-width: 32px;
-  width: 32px;
+  height: 35px;
+  max-height: 35px;
+  max-width: 35px;
+  min-height: 35px;
+  min-width: 35px;
+  width: 35px;
 }
 
 .button.is-loading::after, .loader, .select.is-loading::after, .control.is-loading::after {
